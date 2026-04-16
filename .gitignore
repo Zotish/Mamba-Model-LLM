@@ -1,0 +1,22 @@
+# Checkpoints (large binary files)
+out/
+out_alpaca/
+out_mamba/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+train/.venv/
+*.egg-info/
+
+# Node
+web/node_modules/
+web/dist/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
